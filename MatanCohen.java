@@ -4,7 +4,7 @@ public class MatanCohen
     {
         for (int i = 1; i <= 10; i++)
         {
-            System.out.println("Hey Matan Cohen");
+            System.out.println("Sup Matan Cohen");
         }
     }
 }
